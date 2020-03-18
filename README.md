@@ -1,4 +1,4 @@
-# resources
+# Resources
 Useful code learning resources
 
 ### Front End Web Development
