@@ -7,4 +7,4 @@ Useful code learning resources
 - https://github.com/facebook/react
 
 ### Git
-- write guide.
+- https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
